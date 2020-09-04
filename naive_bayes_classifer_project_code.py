@@ -1,6 +1,3 @@
-# Jinsan Kim
-# ID# 1220660233
-
 import numpy
 import scipy.io
 import math
